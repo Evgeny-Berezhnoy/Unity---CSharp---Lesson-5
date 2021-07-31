@@ -1,0 +1,7 @@
+F:\Visual Studio\Unity CSharp Basics\bin\Debug\Unity CSharp Basics.exe.config
+F:\Visual Studio\Unity CSharp Basics\bin\Debug\Unity CSharp Basics.exe
+F:\Visual Studio\Unity CSharp Basics\bin\Debug\Unity CSharp Basics.pdb
+F:\Visual Studio\Unity CSharp Basics\obj\Debug\Unity CSharp Basics.csproj.AssemblyReference.cache
+F:\Visual Studio\Unity CSharp Basics\obj\Debug\Unity CSharp Basics.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Unity CSharp Basics\obj\Debug\Unity CSharp Basics.exe
+F:\Visual Studio\Unity CSharp Basics\obj\Debug\Unity CSharp Basics.pdb
